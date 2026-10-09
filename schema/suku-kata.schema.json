@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "suku-kata.schema.json",
+  "title": "Suku Kata",
+  "description": "Daftar suku kata. K = konsonan, V = vokal. ng, ny, sy, kh dihitung satu konsonan; ai, au, oi dihitung satu vokal (diftong).",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "teks", "pola", "huruf", "level", "contoh_kata"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^[a-z]+$" },
+      "teks": { "type": "string", "pattern": "^[a-z]+$" },
+      "pola": { "type": "string", "pattern": "^[KV]+$" },
+      "huruf": {
+        "type": "array",
+        "minItems": 1,
+        "items": { "type": "string", "pattern": "^(ng|ny|sy|kh|ai|au|oi|[a-z])$" }
+      },
+      "level": { "type": "integer", "minimum": 1, "maximum": 5 },
+      "contoh_kata": {
+        "type": "array",
+        "maxItems": 5,
+        "items": { "type": "string", "pattern": "^[a-z]+$" }
+      }
+    }
+  }
+}

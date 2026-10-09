@@ -1,0 +1,102 @@
+[
+  {
+    "id": "apple",
+    "teks": "apple",
+    "suku_kata": ["ap", "ple"],
+    "jumlah_suku_kata": 2,
+    "kategori": "buah",
+    "emoji": "🍎",
+    "gambar": null,
+    "audio": null
+  },
+  {
+    "id": "tiger",
+    "teks": "tiger",
+    "suku_kata": ["ti", "ger"],
+    "jumlah_suku_kata": 2,
+    "kategori": "hewan",
+    "emoji": "🐯",
+    "gambar": null,
+    "audio": null
+  },
+  {
+    "id": "rabbit",
+    "teks": "rabbit",
+    "suku_kata": ["rab", "bit"],
+    "jumlah_suku_kata": 2,
+    "kategori": "hewan",
+    "emoji": "🐰",
+    "gambar": null,
+    "audio": null
+  },
+  {
+    "id": "monkey",
+    "teks": "monkey",
+    "suku_kata": ["mon", "key"],
+    "jumlah_suku_kata": 2,
+    "kategori": "hewan",
+    "emoji": "🐒",
+    "gambar": null,
+    "audio": null
+  },
+  {
+    "id": "puppy",
+    "teks": "puppy",
+    "suku_kata": ["pup", "py"],
+    "jumlah_suku_kata": 2,
+    "kategori": "hewan",
+    "emoji": "🐶",
+    "gambar": null,
+    "audio": null
+  },
+  {
+    "id": "flower",
+    "teks": "flower",
+    "suku_kata": ["flow", "er"],
+    "jumlah_suku_kata": 2,
+    "kategori": "alam",
+    "emoji": "🌸",
+    "gambar": null,
+    "audio": null
+  },
+  {
+    "id": "pencil",
+    "teks": "pencil",
+    "suku_kata": ["pen", "cil"],
+    "jumlah_suku_kata": 2,
+    "kategori": "benda",
+    "emoji": "✏️",
+    "gambar": null,
+    "audio": null
+  },
+  {
+    "id": "banana",
+    "teks": "banana",
+    "suku_kata": ["ba", "na", "na"],
+    "jumlah_suku_kata": 3,
+    "kategori": "buah",
+    "emoji": "🍌",
+    "gambar": null,
+    "audio": null
+  },
+  {
+    "id": "butterfly",
+    "teks": "butterfly",
+    "suku_kata": ["but", "ter", "fly"],
+    "jumlah_suku_kata": 3,
+    "kategori": "hewan",
+    "emoji": "🦋",
+    "gambar": null,
+    "audio": null
+  },
+  {
+    "id": "dinosaur",
+    "teks": "dinosaur",
+    "suku_kata": ["di", "no", "saur"],
+    "jumlah_suku_kata": 3,
+    "kategori": "hewan",
+    "emoji": "🦖",
+    "gambar": null,
+    "audio": null
+  }
+]

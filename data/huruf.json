@@ -1,0 +1,262 @@
+[
+  {
+    "id": "a",
+    "huruf": "a",
+    "kapital": "A",
+    "jenis": "vokal",
+    "nama": "a",
+    "bunyi": "/a/",
+    "contoh_kata": ["ayam", "apel"],
+    "level": 1
+  },
+  {
+    "id": "b",
+    "huruf": "b",
+    "kapital": "B",
+    "jenis": "konsonan",
+    "nama": "be",
+    "bunyi": "/b/",
+    "contoh_kata": ["buku", "bola"],
+    "level": 1
+  },
+  {
+    "id": "c",
+    "huruf": "c",
+    "kapital": "C",
+    "jenis": "konsonan",
+    "nama": "ce",
+    "bunyi": "/tʃ/",
+    "contoh_kata": ["cicak", "cabai"],
+    "level": 1
+  },
+  {
+    "id": "d",
+    "huruf": "d",
+    "kapital": "D",
+    "jenis": "konsonan",
+    "nama": "de",
+    "bunyi": "/d/",
+    "contoh_kata": ["dadu", "domba"],
+    "level": 1
+  },
+  {
+    "id": "e",
+    "huruf": "e",
+    "kapital": "E",
+    "jenis": "vokal",
+    "nama": "e",
+    "bunyi": "/e/ atau /ə/",
+    "contoh_kata": ["ekor", "elang"],
+    "level": 1
+  },
+  {
+    "id": "f",
+    "huruf": "f",
+    "kapital": "F",
+    "jenis": "konsonan",
+    "nama": "ef",
+    "bunyi": "/f/",
+    "contoh_kata": ["foto", "film"],
+    "level": 1
+  },
+  {
+    "id": "g",
+    "huruf": "g",
+    "kapital": "G",
+    "jenis": "konsonan",
+    "nama": "ge",
+    "bunyi": "/g/",
+    "contoh_kata": ["gigi", "gajah"],
+    "level": 1
+  },
+  {
+    "id": "h",
+    "huruf": "h",
+    "kapital": "H",
+    "jenis": "konsonan",
+    "nama": "ha",
+    "bunyi": "/h/",
+    "contoh_kata": ["hujan", "harimau"],
+    "level": 1
+  },
+  {
+    "id": "i",
+    "huruf": "i",
+    "kapital": "I",
+    "jenis": "vokal",
+    "nama": "i",
+    "bunyi": "/i/",
+    "contoh_kata": ["ikan", "itik"],
+    "level": 1
+  },
+  {
+    "id": "j",
+    "huruf": "j",
+    "kapital": "J",
+    "jenis": "konsonan",
+    "nama": "je",
+    "bunyi": "/dʒ/",
+    "contoh_kata": ["jeruk", "jari"],
+    "level": 1
+  },
+  {
+    "id": "k",
+    "huruf": "k",
+    "kapital": "K",
+    "jenis": "konsonan",
+    "nama": "ka",
+    "bunyi": "/k/",
+    "contoh_kata": ["kuda", "kucing"],
+    "level": 1
+  },
+  {
+    "id": "l",
+    "huruf": "l",
+    "kapital": "L",
+    "jenis": "konsonan",
+    "nama": "el",
+    "bunyi": "/l/",
+    "contoh_kata": ["lampu", "lemari"],
+    "level": 1
+  },
+  {
+    "id": "m",
+    "huruf": "m",
+    "kapital": "M",
+    "jenis": "konsonan",
+    "nama": "em",
+    "bunyi": "/m/",
+    "contoh_kata": ["mata", "meja"],
+    "level": 1
+  },
+  {
+    "id": "n",
+    "huruf": "n",
+    "kapital": "N",
+    "jenis": "konsonan",
+    "nama": "en",
+    "bunyi": "/n/",
+    "contoh_kata": ["nasi", "nanas"],
+    "level": 1
+  },
+  {
+    "id": "o",
+    "huruf": "o",
+    "kapital": "O",
+    "jenis": "vokal",
+    "nama": "o",
+    "bunyi": "/o/",
+    "contoh_kata": ["obor", "odol"],
+    "level": 1
+  },
+  {
+    "id": "p",
+    "huruf": "p",
+    "kapital": "P",
+    "jenis": "konsonan",
+    "nama": "pe",
+    "bunyi": "/p/",
+    "contoh_kata": ["pisang", "payung"],
+    "level": 1
+  },
+  {
+    "id": "q",
+    "huruf": "q",
+    "kapital": "Q",
+    "jenis": "konsonan",
+    "nama": "ki",
+    "bunyi": "/k/",
+    "contoh_kata": ["quran"],
+    "level": 1
+  },
+  {
+    "id": "r",
+    "huruf": "r",
+    "kapital": "R",
+    "jenis": "konsonan",
+    "nama": "er",
+    "bunyi": "/r/",
+    "contoh_kata": ["roti", "rumah"],
+    "level": 1
+  },
+  {
+    "id": "s",
+    "huruf": "s",
+    "kapital": "S",
+    "jenis": "konsonan",
+    "nama": "es",
+    "bunyi": "/s/",
+    "contoh_kata": ["sapi", "sepatu"],
+    "level": 1
+  },
+  {
+    "id": "t",
+    "huruf": "t",
+    "kapital": "T",
+    "jenis": "konsonan",
+    "nama": "te",
+    "bunyi": "/t/",
+    "contoh_kata": ["topi", "tangan"],
+    "level": 1
+  },
+  {
+    "id": "u",
+    "huruf": "u",
+    "kapital": "U",
+    "jenis": "vokal",
+    "nama": "u",
+    "bunyi": "/u/",
+    "contoh_kata": ["ular", "udang"],
+    "level": 1
+  },
+  {
+    "id": "v",
+    "huruf": "v",
+    "kapital": "V",
+    "jenis": "konsonan",
+    "nama": "ve",
+    "bunyi": "/f/ atau /v/",
+    "contoh_kata": ["vas", "vila"],
+    "level": 1
+  },
+  {
+    "id": "w",
+    "huruf": "w",
+    "kapital": "W",
+    "jenis": "konsonan",
+    "nama": "we",
+    "bunyi": "/w/",
+    "contoh_kata": ["wajan", "wortel"],
+    "level": 1
+  },
+  {
+    "id": "x",
+    "huruf": "x",
+    "kapital": "X",
+    "jenis": "konsonan",
+    "nama": "eks",
+    "bunyi": "/ks/",
+    "contoh_kata": ["xenon", "xilofon"],
+    "level": 1
+  },
+  {
+    "id": "y",
+    "huruf": "y",
+    "kapital": "Y",
+    "jenis": "konsonan",
+    "nama": "ye",
+    "bunyi": "/j/",
+    "contoh_kata": ["yoyo", "yakin"],
+    "level": 1
+  },
+  {
+    "id": "z",
+    "huruf": "z",
+    "kapital": "Z",
+    "jenis": "konsonan",
+    "nama": "zet",
+    "bunyi": "/z/",
+    "contoh_kata": ["zebra", "zaitun"],
+    "level": 1
+  }
+]

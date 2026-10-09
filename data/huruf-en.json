@@ -1,0 +1,262 @@
+[
+  {
+    "id": "a",
+    "huruf": "a",
+    "kapital": "A",
+    "jenis": "vokal",
+    "nama": "ay",
+    "bunyi": "/æ/",
+    "contoh_kata": ["ant", "apple"],
+    "level": 1
+  },
+  {
+    "id": "b",
+    "huruf": "b",
+    "kapital": "B",
+    "jenis": "konsonan",
+    "nama": "bee",
+    "bunyi": "/b/",
+    "contoh_kata": ["ball", "banana"],
+    "level": 1
+  },
+  {
+    "id": "c",
+    "huruf": "c",
+    "kapital": "C",
+    "jenis": "konsonan",
+    "nama": "see",
+    "bunyi": "/k/",
+    "contoh_kata": ["cat", "cow"],
+    "level": 1
+  },
+  {
+    "id": "d",
+    "huruf": "d",
+    "kapital": "D",
+    "jenis": "konsonan",
+    "nama": "dee",
+    "bunyi": "/d/",
+    "contoh_kata": ["dog", "dinosaur"],
+    "level": 1
+  },
+  {
+    "id": "e",
+    "huruf": "e",
+    "kapital": "E",
+    "jenis": "vokal",
+    "nama": "ee",
+    "bunyi": "/ɛ/",
+    "contoh_kata": ["egg", "elephant"],
+    "level": 1
+  },
+  {
+    "id": "f",
+    "huruf": "f",
+    "kapital": "F",
+    "jenis": "konsonan",
+    "nama": "eff",
+    "bunyi": "/f/",
+    "contoh_kata": ["fish", "flower"],
+    "level": 1
+  },
+  {
+    "id": "g",
+    "huruf": "g",
+    "kapital": "G",
+    "jenis": "konsonan",
+    "nama": "jee",
+    "bunyi": "/ɡ/",
+    "contoh_kata": ["goat", "grape"],
+    "level": 1
+  },
+  {
+    "id": "h",
+    "huruf": "h",
+    "kapital": "H",
+    "jenis": "konsonan",
+    "nama": "aitch",
+    "bunyi": "/h/",
+    "contoh_kata": ["hat", "horse"],
+    "level": 1
+  },
+  {
+    "id": "i",
+    "huruf": "i",
+    "kapital": "I",
+    "jenis": "vokal",
+    "nama": "eye",
+    "bunyi": "/ɪ/",
+    "contoh_kata": ["ink", "igloo"],
+    "level": 1
+  },
+  {
+    "id": "j",
+    "huruf": "j",
+    "kapital": "J",
+    "jenis": "konsonan",
+    "nama": "jay",
+    "bunyi": "/dʒ/",
+    "contoh_kata": ["jam", "juice"],
+    "level": 1
+  },
+  {
+    "id": "k",
+    "huruf": "k",
+    "kapital": "K",
+    "jenis": "konsonan",
+    "nama": "kay",
+    "bunyi": "/k/",
+    "contoh_kata": ["kite", "key"],
+    "level": 1
+  },
+  {
+    "id": "l",
+    "huruf": "l",
+    "kapital": "L",
+    "jenis": "konsonan",
+    "nama": "ell",
+    "bunyi": "/l/",
+    "contoh_kata": ["lion", "lemon"],
+    "level": 1
+  },
+  {
+    "id": "m",
+    "huruf": "m",
+    "kapital": "M",
+    "jenis": "konsonan",
+    "nama": "em",
+    "bunyi": "/m/",
+    "contoh_kata": ["moon", "monkey"],
+    "level": 1
+  },
+  {
+    "id": "n",
+    "huruf": "n",
+    "kapital": "N",
+    "jenis": "konsonan",
+    "nama": "en",
+    "bunyi": "/n/",
+    "contoh_kata": ["nose", "nut"],
+    "level": 1
+  },
+  {
+    "id": "o",
+    "huruf": "o",
+    "kapital": "O",
+    "jenis": "vokal",
+    "nama": "oh",
+    "bunyi": "/ɑ/",
+    "contoh_kata": ["orange", "octopus"],
+    "level": 1
+  },
+  {
+    "id": "p",
+    "huruf": "p",
+    "kapital": "P",
+    "jenis": "konsonan",
+    "nama": "pee",
+    "bunyi": "/p/",
+    "contoh_kata": ["pencil", "puppy"],
+    "level": 1
+  },
+  {
+    "id": "q",
+    "huruf": "q",
+    "kapital": "Q",
+    "jenis": "konsonan",
+    "nama": "cue",
+    "bunyi": "/kw/",
+    "contoh_kata": ["queen", "quilt"],
+    "level": 1
+  },
+  {
+    "id": "r",
+    "huruf": "r",
+    "kapital": "R",
+    "jenis": "konsonan",
+    "nama": "ar",
+    "bunyi": "/r/",
+    "contoh_kata": ["rabbit", "rain"],
+    "level": 1
+  },
+  {
+    "id": "s",
+    "huruf": "s",
+    "kapital": "S",
+    "jenis": "konsonan",
+    "nama": "ess",
+    "bunyi": "/s/",
+    "contoh_kata": ["sun", "star"],
+    "level": 1
+  },
+  {
+    "id": "t",
+    "huruf": "t",
+    "kapital": "T",
+    "jenis": "konsonan",
+    "nama": "tee",
+    "bunyi": "/t/",
+    "contoh_kata": ["tiger", "tree"],
+    "level": 1
+  },
+  {
+    "id": "u",
+    "huruf": "u",
+    "kapital": "U",
+    "jenis": "vokal",
+    "nama": "you",
+    "bunyi": "/ʌ/",
+    "contoh_kata": ["umbrella", "up"],
+    "level": 1
+  },
+  {
+    "id": "v",
+    "huruf": "v",
+    "kapital": "V",
+    "jenis": "konsonan",
+    "nama": "vee",
+    "bunyi": "/v/",
+    "contoh_kata": ["van", "violin"],
+    "level": 1
+  },
+  {
+    "id": "w",
+    "huruf": "w",
+    "kapital": "W",
+    "jenis": "konsonan",
+    "nama": "double-you",
+    "bunyi": "/w/",
+    "contoh_kata": ["water", "watch"],
+    "level": 1
+  },
+  {
+    "id": "x",
+    "huruf": "x",
+    "kapital": "X",
+    "jenis": "konsonan",
+    "nama": "ex",
+    "bunyi": "/ks/",
+    "contoh_kata": ["box", "fox"],
+    "level": 1
+  },
+  {
+    "id": "y",
+    "huruf": "y",
+    "kapital": "Y",
+    "jenis": "konsonan",
+    "nama": "why",
+    "bunyi": "/j/",
+    "contoh_kata": ["yellow", "yoyo"],
+    "level": 1
+  },
+  {
+    "id": "z",
+    "huruf": "z",
+    "kapital": "Z",
+    "jenis": "konsonan",
+    "nama": "zee",
+    "bunyi": "/z/",
+    "contoh_kata": ["zebra", "zoo"],
+    "level": 1
+  }
+]

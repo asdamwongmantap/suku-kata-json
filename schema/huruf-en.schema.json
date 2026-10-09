@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "huruf-en.schema.json",
+  "title": "Huruf (Inggris)",
+  "description": "Alfabet bahasa Inggris beserta nama huruf, bunyi, dan contoh kata.",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "huruf",
+      "kapital",
+      "jenis",
+      "nama",
+      "bunyi",
+      "contoh_kata",
+      "level"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z]$"
+      },
+      "huruf": {
+        "type": "string",
+        "pattern": "^[a-z]$"
+      },
+      "kapital": {
+        "type": "string",
+        "pattern": "^[A-Z]$"
+      },
+      "jenis": {
+        "type": "string",
+        "enum": [
+          "vokal",
+          "konsonan"
+        ]
+      },
+      "nama": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Cara menyebut nama huruf, misalnya 'bee' untuk b."
+      },
+      "bunyi": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Perkiraan bunyi dalam notasi IPA sederhana."
+      },
+      "contoh_kata": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z]+$"
+        }
+      },
+      "level": {
+        "type": "integer",
+        "minimum": 1,
+        "maximum": 5
+      }
+    }
+  }
+}

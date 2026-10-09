@@ -1,0 +1,72 @@
+[
+  {
+    "id": "this-is-an-apple",
+    "teks": "This is an apple.",
+    "kata": ["this", "is", "an", "apple"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "i-see-a-tiger",
+    "teks": "I see a tiger.",
+    "kata": ["i", "see", "a", "tiger"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "the-rabbit-can-jump",
+    "teks": "The rabbit can jump.",
+    "kata": ["the", "rabbit", "can", "jump"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "the-monkey-likes-the-banana",
+    "teks": "The monkey likes the banana.",
+    "kata": ["the", "monkey", "likes", "the", "banana"],
+    "jumlah_kata": 5,
+    "level": 5
+  },
+  {
+    "id": "a-puppy-is-cute",
+    "teks": "A puppy is cute.",
+    "kata": ["a", "puppy", "is", "cute"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "the-flower-is-pretty",
+    "teks": "The flower is pretty.",
+    "kata": ["the", "flower", "is", "pretty"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "i-have-a-pencil",
+    "teks": "I have a pencil.",
+    "kata": ["i", "have", "a", "pencil"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "the-butterfly-can-fly",
+    "teks": "The butterfly can fly.",
+    "kata": ["the", "butterfly", "can", "fly"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "the-dinosaur-is-big",
+    "teks": "The dinosaur is big.",
+    "kata": ["the", "dinosaur", "is", "big"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "a-rabbit-and-a-tiger",
+    "teks": "A rabbit and a tiger.",
+    "kata": ["a", "rabbit", "and", "a", "tiger"],
+    "jumlah_kata": 5,
+    "level": 5
+  }
+]

@@ -1,0 +1,2626 @@
+[
+  {
+    "id": "a",
+    "teks": "a",
+    "pola": "V",
+    "huruf": ["a"],
+    "level": 1,
+    "contoh_kata": ["aku", "apa", "api"]
+  },
+  {
+    "id": "i",
+    "teks": "i",
+    "pola": "V",
+    "huruf": ["i"],
+    "level": 1,
+    "contoh_kata": ["ibu", "ini", "itu"]
+  },
+  {
+    "id": "u",
+    "teks": "u",
+    "pola": "V",
+    "huruf": ["u"],
+    "level": 1,
+    "contoh_kata": ["ubi", "ular", "ulat"]
+  },
+  {
+    "id": "e",
+    "teks": "e",
+    "pola": "V",
+    "huruf": ["e"],
+    "level": 1,
+    "contoh_kata": ["kue", "enak", "enam"]
+  },
+  {
+    "id": "o",
+    "teks": "o",
+    "pola": "V",
+    "huruf": ["o"],
+    "level": 1,
+    "contoh_kata": ["radio", "oranye"]
+  },
+  {
+    "id": "ba",
+    "teks": "ba",
+    "pola": "KV",
+    "huruf": ["b", "a"],
+    "level": 1,
+    "contoh_kata": ["baca", "bahu", "baju"]
+  },
+  {
+    "id": "bi",
+    "teks": "bi",
+    "pola": "KV",
+    "huruf": ["b", "i"],
+    "level": 1,
+    "contoh_kata": ["bibi", "biru", "bisa"]
+  },
+  {
+    "id": "bu",
+    "teks": "bu",
+    "pola": "KV",
+    "huruf": ["b", "u"],
+    "level": 1,
+    "contoh_kata": ["buka", "buku", "bumi"]
+  },
+  {
+    "id": "be",
+    "teks": "be",
+    "pola": "KV",
+    "huruf": ["b", "e"],
+    "level": 1,
+    "contoh_kata": ["beli", "bebek", "becak"]
+  },
+  {
+    "id": "bo",
+    "teks": "bo",
+    "pola": "KV",
+    "huruf": ["b", "o"],
+    "level": 1,
+    "contoh_kata": ["bola", "botol"]
+  },
+  {
+    "id": "ca",
+    "teks": "ca",
+    "pola": "KV",
+    "huruf": ["c", "a"],
+    "level": 1,
+    "contoh_kata": ["baca", "kaca", "membaca"]
+  },
+  {
+    "id": "ci",
+    "teks": "ci",
+    "pola": "KV",
+    "huruf": ["c", "i"],
+    "level": 1,
+    "contoh_kata": ["cuci", "cicak", "kelinci"]
+  },
+  {
+    "id": "cu",
+    "teks": "cu",
+    "pola": "KV",
+    "huruf": ["c", "u"],
+    "level": 1,
+    "contoh_kata": ["cuci"]
+  },
+  {
+    "id": "ce",
+    "teks": "ce",
+    "pola": "KV",
+    "huruf": ["c", "e"],
+    "level": 1,
+    "contoh_kata": ["celana", "cepat"]
+  },
+  {
+    "id": "co",
+    "teks": "co",
+    "pola": "KV",
+    "huruf": ["c", "o"],
+    "level": 1,
+    "contoh_kata": ["cokelat"]
+  },
+  {
+    "id": "da",
+    "teks": "da",
+    "pola": "KV",
+    "huruf": ["d", "a"],
+    "level": 1,
+    "contoh_kata": ["dada", "dadu", "dahi"]
+  },
+  {
+    "id": "di",
+    "teks": "di",
+    "pola": "KV",
+    "huruf": ["d", "i"],
+    "level": 1,
+    "contoh_kata": ["di", "dia", "radio"]
+  },
+  {
+    "id": "du",
+    "teks": "du",
+    "pola": "KV",
+    "huruf": ["d", "u"],
+    "level": 1,
+    "contoh_kata": ["dadu", "dua", "madu"]
+  },
+  {
+    "id": "de",
+    "teks": "de",
+    "pola": "KV",
+    "huruf": ["d", "e"],
+    "level": 1,
+    "contoh_kata": ["desa", "delapan", "jendela"]
+  },
+  {
+    "id": "do",
+    "teks": "do",
+    "pola": "KV",
+    "huruf": ["d", "o"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "fa",
+    "teks": "fa",
+    "pola": "KV",
+    "huruf": ["f", "a"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "fi",
+    "teks": "fi",
+    "pola": "KV",
+    "huruf": ["f", "i"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "fu",
+    "teks": "fu",
+    "pola": "KV",
+    "huruf": ["f", "u"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "fe",
+    "teks": "fe",
+    "pola": "KV",
+    "huruf": ["f", "e"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "fo",
+    "teks": "fo",
+    "pola": "KV",
+    "huruf": ["f", "o"],
+    "level": 1,
+    "contoh_kata": ["foto"]
+  },
+  {
+    "id": "ga",
+    "teks": "ga",
+    "pola": "KV",
+    "huruf": ["g", "a"],
+    "level": 1,
+    "contoh_kata": ["jaga", "tiga", "gajah"]
+  },
+  {
+    "id": "gi",
+    "teks": "gi",
+    "pola": "KV",
+    "huruf": ["g", "i"],
+    "level": 1,
+    "contoh_kata": ["gigi", "pagi", "gitar"]
+  },
+  {
+    "id": "gu",
+    "teks": "gu",
+    "pola": "KV",
+    "huruf": ["g", "u"],
+    "level": 1,
+    "contoh_kata": ["gula", "gunung", "minggu"]
+  },
+  {
+    "id": "ge",
+    "teks": "ge",
+    "pola": "KV",
+    "huruf": ["g", "e"],
+    "level": 1,
+    "contoh_kata": ["gereja", "gelas", "gemuk"]
+  },
+  {
+    "id": "go",
+    "teks": "go",
+    "pola": "KV",
+    "huruf": ["g", "o"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "ha",
+    "teks": "ha",
+    "pola": "KV",
+    "huruf": ["h", "a"],
+    "level": 1,
+    "contoh_kata": ["hari", "matahari", "paha"]
+  },
+  {
+    "id": "hi",
+    "teks": "hi",
+    "pola": "KV",
+    "huruf": ["h", "i"],
+    "level": 1,
+    "contoh_kata": ["dahi", "hitam", "hidung"]
+  },
+  {
+    "id": "hu",
+    "teks": "hu",
+    "pola": "KV",
+    "huruf": ["h", "u"],
+    "level": 1,
+    "contoh_kata": ["bahu", "perahu", "tahu"]
+  },
+  {
+    "id": "he",
+    "teks": "he",
+    "pola": "KV",
+    "huruf": ["h", "e"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "ho",
+    "teks": "ho",
+    "pola": "KV",
+    "huruf": ["h", "o"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "ja",
+    "teks": "ja",
+    "pola": "KV",
+    "huruf": ["j", "a"],
+    "level": 1,
+    "contoh_kata": ["gereja", "jaga", "jari"]
+  },
+  {
+    "id": "ji",
+    "teks": "ji",
+    "pola": "KV",
+    "huruf": ["j", "i"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "ju",
+    "teks": "ju",
+    "pola": "KV",
+    "huruf": ["j", "u"],
+    "level": 1,
+    "contoh_kata": ["baju", "keju", "jual"]
+  },
+  {
+    "id": "je",
+    "teks": "je",
+    "pola": "KV",
+    "huruf": ["j", "e"],
+    "level": 1,
+    "contoh_kata": ["jeruk"]
+  },
+  {
+    "id": "jo",
+    "teks": "jo",
+    "pola": "KV",
+    "huruf": ["j", "o"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "ka",
+    "teks": "ka",
+    "pola": "KV",
+    "huruf": ["k", "a"],
+    "level": 1,
+    "contoh_kata": ["buka", "kaca", "kaki"]
+  },
+  {
+    "id": "ki",
+    "teks": "ki",
+    "pola": "KV",
+    "huruf": ["k", "i"],
+    "level": 1,
+    "contoh_kata": ["kaki", "kita", "kipas"]
+  },
+  {
+    "id": "ku",
+    "teks": "ku",
+    "pola": "KV",
+    "huruf": ["k", "u"],
+    "level": 1,
+    "contoh_kata": ["aku", "buku", "kuda"]
+  },
+  {
+    "id": "ke",
+    "teks": "ke",
+    "pola": "KV",
+    "huruf": ["k", "e"],
+    "level": 1,
+    "contoh_kata": ["ke", "keju", "kelapa"]
+  },
+  {
+    "id": "ko",
+    "teks": "ko",
+    "pola": "KV",
+    "huruf": ["k", "o"],
+    "level": 1,
+    "contoh_kata": ["kopi", "kota", "teko"]
+  },
+  {
+    "id": "la",
+    "teks": "la",
+    "pola": "KV",
+    "huruf": ["l", "a"],
+    "level": 1,
+    "contoh_kata": ["bola", "celana", "gula"]
+  },
+  {
+    "id": "li",
+    "teks": "li",
+    "pola": "KV",
+    "huruf": ["l", "i"],
+    "level": 1,
+    "contoh_kata": ["beli", "lima", "tali"]
+  },
+  {
+    "id": "lu",
+    "teks": "lu",
+    "pola": "KV",
+    "huruf": ["l", "u"],
+    "level": 1,
+    "contoh_kata": ["lupa", "lutut"]
+  },
+  {
+    "id": "le",
+    "teks": "le",
+    "pola": "KV",
+    "huruf": ["l", "e"],
+    "level": 1,
+    "contoh_kata": ["lele", "lemari", "televisi"]
+  },
+  {
+    "id": "lo",
+    "teks": "lo",
+    "pola": "KV",
+    "huruf": ["l", "o"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "ma",
+    "teks": "ma",
+    "pola": "KV",
+    "huruf": ["m", "a"],
+    "level": 1,
+    "contoh_kata": ["lama", "lemari", "lima"]
+  },
+  {
+    "id": "mi",
+    "teks": "mi",
+    "pola": "KV",
+    "huruf": ["m", "i"],
+    "level": 1,
+    "contoh_kata": ["bumi", "kami", "minum"]
+  },
+  {
+    "id": "mu",
+    "teks": "mu",
+    "pola": "KV",
+    "huruf": ["m", "u"],
+    "level": 1,
+    "contoh_kata": ["kamu", "muka", "mulut"]
+  },
+  {
+    "id": "me",
+    "teks": "me",
+    "pola": "KV",
+    "huruf": ["m", "e"],
+    "level": 1,
+    "contoh_kata": ["kemeja", "meja", "melihat"]
+  },
+  {
+    "id": "mo",
+    "teks": "mo",
+    "pola": "KV",
+    "huruf": ["m", "o"],
+    "level": 1,
+    "contoh_kata": ["mobil", "motor", "monyet"]
+  },
+  {
+    "id": "na",
+    "teks": "na",
+    "pola": "KV",
+    "huruf": ["n", "a"],
+    "level": 1,
+    "contoh_kata": ["celana", "nasi", "pena"]
+  },
+  {
+    "id": "ni",
+    "teks": "ni",
+    "pola": "KV",
+    "huruf": ["n", "i"],
+    "level": 1,
+    "contoh_kata": ["ini"]
+  },
+  {
+    "id": "nu",
+    "teks": "nu",
+    "pola": "KV",
+    "huruf": ["n", "u"],
+    "level": 1,
+    "contoh_kata": ["menulis"]
+  },
+  {
+    "id": "ne",
+    "teks": "ne",
+    "pola": "KV",
+    "huruf": ["n", "e"],
+    "level": 1,
+    "contoh_kata": ["nenek"]
+  },
+  {
+    "id": "no",
+    "teks": "no",
+    "pola": "KV",
+    "huruf": ["n", "o"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "pa",
+    "teks": "pa",
+    "pola": "KV",
+    "huruf": ["p", "a"],
+    "level": 1,
+    "contoh_kata": ["apa", "kelapa", "kepala"]
+  },
+  {
+    "id": "pi",
+    "teks": "pi",
+    "pola": "KV",
+    "huruf": ["p", "i"],
+    "level": 1,
+    "contoh_kata": ["api", "kopi", "pipi"]
+  },
+  {
+    "id": "pu",
+    "teks": "pu",
+    "pola": "KV",
+    "huruf": ["p", "u"],
+    "level": 1,
+    "contoh_kata": ["sapu", "garpu", "komputer"]
+  },
+  {
+    "id": "pe",
+    "teks": "pe",
+    "pola": "KV",
+    "huruf": ["p", "e"],
+    "level": 1,
+    "contoh_kata": ["pena", "pepaya", "perahu"]
+  },
+  {
+    "id": "po",
+    "teks": "po",
+    "pola": "KV",
+    "huruf": ["p", "o"],
+    "level": 1,
+    "contoh_kata": ["pohon"]
+  },
+  {
+    "id": "ra",
+    "teks": "ra",
+    "pola": "KV",
+    "huruf": ["r", "a"],
+    "level": 1,
+    "contoh_kata": ["kera", "perahu", "radio"]
+  },
+  {
+    "id": "ri",
+    "teks": "ri",
+    "pola": "KV",
+    "huruf": ["r", "i"],
+    "level": 1,
+    "contoh_kata": ["hari", "jari", "lari"]
+  },
+  {
+    "id": "ru",
+    "teks": "ru",
+    "pola": "KV",
+    "huruf": ["r", "u"],
+    "level": 1,
+    "contoh_kata": ["baru", "biru", "rusa"]
+  },
+  {
+    "id": "re",
+    "teks": "re",
+    "pola": "KV",
+    "huruf": ["r", "e"],
+    "level": 1,
+    "contoh_kata": ["gereja", "kereta", "sore"]
+  },
+  {
+    "id": "ro",
+    "teks": "ro",
+    "pola": "KV",
+    "huruf": ["r", "o"],
+    "level": 1,
+    "contoh_kata": ["roti"]
+  },
+  {
+    "id": "sa",
+    "teks": "sa",
+    "pola": "KV",
+    "huruf": ["s", "a"],
+    "level": 1,
+    "contoh_kata": ["bisa", "desa", "rusa"]
+  },
+  {
+    "id": "si",
+    "teks": "si",
+    "pola": "KV",
+    "huruf": ["s", "i"],
+    "level": 1,
+    "contoh_kata": ["dasi", "nasi", "siku"]
+  },
+  {
+    "id": "su",
+    "teks": "su",
+    "pola": "KV",
+    "huruf": ["s", "u"],
+    "level": 1,
+    "contoh_kata": ["suka", "susu", "sungai"]
+  },
+  {
+    "id": "se",
+    "teks": "se",
+    "pola": "KV",
+    "huruf": ["s", "e"],
+    "level": 1,
+    "contoh_kata": ["sepatu", "sepeda", "sedih"]
+  },
+  {
+    "id": "so",
+    "teks": "so",
+    "pola": "KV",
+    "huruf": ["s", "o"],
+    "level": 1,
+    "contoh_kata": ["sore", "soto", "bakso"]
+  },
+  {
+    "id": "ta",
+    "teks": "ta",
+    "pola": "KV",
+    "huruf": ["t", "a"],
+    "level": 1,
+    "contoh_kata": ["kereta", "kita", "kota"]
+  },
+  {
+    "id": "ti",
+    "teks": "ti",
+    "pola": "KV",
+    "huruf": ["t", "i"],
+    "level": 1,
+    "contoh_kata": ["roti", "tiba", "tiga"]
+  },
+  {
+    "id": "tu",
+    "teks": "tu",
+    "pola": "KV",
+    "huruf": ["t", "u"],
+    "level": 1,
+    "contoh_kata": ["batu", "itu", "satu"]
+  },
+  {
+    "id": "te",
+    "teks": "te",
+    "pola": "KV",
+    "huruf": ["t", "e"],
+    "level": 1,
+    "contoh_kata": ["sate", "teko", "televisi"]
+  },
+  {
+    "id": "to",
+    "teks": "to",
+    "pola": "KV",
+    "huruf": ["t", "o"],
+    "level": 1,
+    "contoh_kata": ["foto", "soto", "toko"]
+  },
+  {
+    "id": "va",
+    "teks": "va",
+    "pola": "KV",
+    "huruf": ["v", "a"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "vi",
+    "teks": "vi",
+    "pola": "KV",
+    "huruf": ["v", "i"],
+    "level": 1,
+    "contoh_kata": ["televisi"]
+  },
+  {
+    "id": "vu",
+    "teks": "vu",
+    "pola": "KV",
+    "huruf": ["v", "u"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "ve",
+    "teks": "ve",
+    "pola": "KV",
+    "huruf": ["v", "e"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "vo",
+    "teks": "vo",
+    "pola": "KV",
+    "huruf": ["v", "o"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "wa",
+    "teks": "wa",
+    "pola": "KV",
+    "huruf": ["w", "a"],
+    "level": 1,
+    "contoh_kata": ["bawa", "tawa"]
+  },
+  {
+    "id": "wi",
+    "teks": "wi",
+    "pola": "KV",
+    "huruf": ["w", "i"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "wu",
+    "teks": "wu",
+    "pola": "KV",
+    "huruf": ["w", "u"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "we",
+    "teks": "we",
+    "pola": "KV",
+    "huruf": ["w", "e"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "wo",
+    "teks": "wo",
+    "pola": "KV",
+    "huruf": ["w", "o"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "ya",
+    "teks": "ya",
+    "pola": "KV",
+    "huruf": ["y", "a"],
+    "level": 1,
+    "contoh_kata": ["pepaya", "ya"]
+  },
+  {
+    "id": "yi",
+    "teks": "yi",
+    "pola": "KV",
+    "huruf": ["y", "i"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "yu",
+    "teks": "yu",
+    "pola": "KV",
+    "huruf": ["y", "u"],
+    "level": 1,
+    "contoh_kata": ["kayu"]
+  },
+  {
+    "id": "ye",
+    "teks": "ye",
+    "pola": "KV",
+    "huruf": ["y", "e"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "yo",
+    "teks": "yo",
+    "pola": "KV",
+    "huruf": ["y", "o"],
+    "level": 1,
+    "contoh_kata": ["yoyo"]
+  },
+  {
+    "id": "za",
+    "teks": "za",
+    "pola": "KV",
+    "huruf": ["z", "a"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "zi",
+    "teks": "zi",
+    "pola": "KV",
+    "huruf": ["z", "i"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "zu",
+    "teks": "zu",
+    "pola": "KV",
+    "huruf": ["z", "u"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "ze",
+    "teks": "ze",
+    "pola": "KV",
+    "huruf": ["z", "e"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "zo",
+    "teks": "zo",
+    "pola": "KV",
+    "huruf": ["z", "o"],
+    "level": 1,
+    "contoh_kata": []
+  },
+  {
+    "id": "ah",
+    "teks": "ah",
+    "pola": "VK",
+    "huruf": ["a", "h"],
+    "level": 3,
+    "contoh_kata": ["buah"]
+  },
+  {
+    "id": "al",
+    "teks": "al",
+    "pola": "VK",
+    "huruf": ["a", "l"],
+    "level": 3,
+    "contoh_kata": ["jual"]
+  },
+  {
+    "id": "am",
+    "teks": "am",
+    "pola": "VK",
+    "huruf": ["a", "m"],
+    "level": 3,
+    "contoh_kata": ["ambil"]
+  },
+  {
+    "id": "an",
+    "teks": "an",
+    "pola": "VK",
+    "huruf": ["a", "n"],
+    "level": 3,
+    "contoh_kata": ["durian"]
+  },
+  {
+    "id": "bah",
+    "teks": "bah",
+    "pola": "KVK",
+    "huruf": ["b", "a", "h"],
+    "level": 3,
+    "contoh_kata": ["lebah"]
+  },
+  {
+    "id": "bak",
+    "teks": "bak",
+    "pola": "KVK",
+    "huruf": ["b", "a", "k"],
+    "level": 3,
+    "contoh_kata": ["bakso"]
+  },
+  {
+    "id": "bal",
+    "teks": "bal",
+    "pola": "KVK",
+    "huruf": ["b", "a", "l"],
+    "level": 3,
+    "contoh_kata": ["sambal"]
+  },
+  {
+    "id": "ban",
+    "teks": "ban",
+    "pola": "KVK",
+    "huruf": ["b", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["bantal"]
+  },
+  {
+    "id": "bek",
+    "teks": "bek",
+    "pola": "KVK",
+    "huruf": ["b", "e", "k"],
+    "level": 3,
+    "contoh_kata": ["bebek"]
+  },
+  {
+    "id": "ber",
+    "teks": "ber",
+    "pola": "KVK",
+    "huruf": ["b", "e", "r"],
+    "level": 3,
+    "contoh_kata": ["berdiri", "bermain", "bersih"]
+  },
+  {
+    "id": "bil",
+    "teks": "bil",
+    "pola": "KVK",
+    "huruf": ["b", "i", "l"],
+    "level": 3,
+    "contoh_kata": ["ambil", "mobil"]
+  },
+  {
+    "id": "bin",
+    "teks": "bin",
+    "pola": "KVK",
+    "huruf": ["b", "i", "n"],
+    "level": 3,
+    "contoh_kata": ["bintang"]
+  },
+  {
+    "id": "bir",
+    "teks": "bir",
+    "pola": "KVK",
+    "huruf": ["b", "i", "r"],
+    "level": 3,
+    "contoh_kata": ["bibir"]
+  },
+  {
+    "id": "bun",
+    "teks": "bun",
+    "pola": "KVK",
+    "huruf": ["b", "u", "n"],
+    "level": 3,
+    "contoh_kata": ["kebun", "sabun"]
+  },
+  {
+    "id": "bur",
+    "teks": "bur",
+    "pola": "KVK",
+    "huruf": ["b", "u", "r"],
+    "level": 3,
+    "contoh_kata": ["bubur"]
+  },
+  {
+    "id": "bus",
+    "teks": "bus",
+    "pola": "KVK",
+    "huruf": ["b", "u", "s"],
+    "level": 3,
+    "contoh_kata": ["bus"]
+  },
+  {
+    "id": "but",
+    "teks": "but",
+    "pola": "KVK",
+    "huruf": ["b", "u", "t"],
+    "level": 3,
+    "contoh_kata": ["rambut"]
+  },
+  {
+    "id": "cak",
+    "teks": "cak",
+    "pola": "KVK",
+    "huruf": ["c", "a", "k"],
+    "level": 3,
+    "contoh_kata": ["becak", "cicak"]
+  },
+  {
+    "id": "can",
+    "teks": "can",
+    "pola": "KVK",
+    "huruf": ["c", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["cantik"]
+  },
+  {
+    "id": "cer",
+    "teks": "cer",
+    "pola": "KVK",
+    "huruf": ["c", "e", "r"],
+    "level": 3,
+    "contoh_kata": ["cermin"]
+  },
+  {
+    "id": "cil",
+    "teks": "cil",
+    "pola": "KVK",
+    "huruf": ["c", "i", "l"],
+    "level": 3,
+    "contoh_kata": ["kancil", "kecil"]
+  },
+  {
+    "id": "dah",
+    "teks": "dah",
+    "pola": "KVK",
+    "huruf": ["d", "a", "h"],
+    "level": 3,
+    "contoh_kata": ["lidah"]
+  },
+  {
+    "id": "dak",
+    "teks": "dak",
+    "pola": "KVK",
+    "huruf": ["d", "a", "k"],
+    "level": 3,
+    "contoh_kata": ["pundak", "tidak"]
+  },
+  {
+    "id": "dal",
+    "teks": "dal",
+    "pola": "KVK",
+    "huruf": ["d", "a", "l"],
+    "level": 3,
+    "contoh_kata": ["sandal"]
+  },
+  {
+    "id": "dan",
+    "teks": "dan",
+    "pola": "KVK",
+    "huruf": ["d", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["dan"]
+  },
+  {
+    "id": "dek",
+    "teks": "dek",
+    "pola": "KVK",
+    "huruf": ["d", "e", "k"],
+    "level": 3,
+    "contoh_kata": ["pendek"]
+  },
+  {
+    "id": "dih",
+    "teks": "dih",
+    "pola": "KVK",
+    "huruf": ["d", "i", "h"],
+    "level": 3,
+    "contoh_kata": ["sedih"]
+  },
+  {
+    "id": "dik",
+    "teks": "dik",
+    "pola": "KVK",
+    "huruf": ["d", "i", "k"],
+    "level": 3,
+    "contoh_kata": ["adik"]
+  },
+  {
+    "id": "dok",
+    "teks": "dok",
+    "pola": "KVK",
+    "huruf": ["d", "o", "k"],
+    "level": 3,
+    "contoh_kata": ["kodok", "sendok"]
+  },
+  {
+    "id": "dom",
+    "teks": "dom",
+    "pola": "KVK",
+    "huruf": ["d", "o", "m"],
+    "level": 3,
+    "contoh_kata": ["domba", "dompet"]
+  },
+  {
+    "id": "duk",
+    "teks": "duk",
+    "pola": "KVK",
+    "huruf": ["d", "u", "k"],
+    "level": 3,
+    "contoh_kata": ["duduk"]
+  },
+  {
+    "id": "dur",
+    "teks": "dur",
+    "pola": "KVK",
+    "huruf": ["d", "u", "r"],
+    "level": 3,
+    "contoh_kata": ["tidur"]
+  },
+  {
+    "id": "em",
+    "teks": "em",
+    "pola": "VK",
+    "huruf": ["e", "m"],
+    "level": 3,
+    "contoh_kata": ["ember", "empat"]
+  },
+  {
+    "id": "gar",
+    "teks": "gar",
+    "pola": "KVK",
+    "huruf": ["g", "a", "r"],
+    "level": 3,
+    "contoh_kata": ["garpu"]
+  },
+  {
+    "id": "gur",
+    "teks": "gur",
+    "pola": "KVK",
+    "huruf": ["g", "u", "r"],
+    "level": 3,
+    "contoh_kata": ["anggur"]
+  },
+  {
+    "id": "gus",
+    "teks": "gus",
+    "pola": "KVK",
+    "huruf": ["g", "u", "s"],
+    "level": 3,
+    "contoh_kata": ["bagus"]
+  },
+  {
+    "id": "hal",
+    "teks": "hal",
+    "pola": "KVK",
+    "huruf": ["h", "a", "l"],
+    "level": 3,
+    "contoh_kata": ["mahal"]
+  },
+  {
+    "id": "hat",
+    "teks": "hat",
+    "pola": "KVK",
+    "huruf": ["h", "a", "t"],
+    "level": 3,
+    "contoh_kata": ["melihat"]
+  },
+  {
+    "id": "her",
+    "teks": "her",
+    "pola": "KVK",
+    "huruf": ["h", "e", "r"],
+    "level": 3,
+    "contoh_kata": ["leher"]
+  },
+  {
+    "id": "hon",
+    "teks": "hon",
+    "pola": "KVK",
+    "huruf": ["h", "o", "n"],
+    "level": 3,
+    "contoh_kata": ["pohon"]
+  },
+  {
+    "id": "ik",
+    "teks": "ik",
+    "pola": "VK",
+    "huruf": ["i", "k"],
+    "level": 3,
+    "contoh_kata": ["naik"]
+  },
+  {
+    "id": "in",
+    "teks": "in",
+    "pola": "VK",
+    "huruf": ["i", "n"],
+    "level": 3,
+    "contoh_kata": ["bermain", "main"]
+  },
+  {
+    "id": "ir",
+    "teks": "ir",
+    "pola": "VK",
+    "huruf": ["i", "r"],
+    "level": 3,
+    "contoh_kata": ["air"]
+  },
+  {
+    "id": "jah",
+    "teks": "jah",
+    "pola": "KVK",
+    "huruf": ["j", "a", "h"],
+    "level": 3,
+    "contoh_kata": ["gajah"]
+  },
+  {
+    "id": "jaj",
+    "teks": "jaj",
+    "pola": "KVK",
+    "huruf": ["j", "a", "j"],
+    "level": 3,
+    "contoh_kata": ["bajaj"]
+  },
+  {
+    "id": "jam",
+    "teks": "jam",
+    "pola": "KVK",
+    "huruf": ["j", "a", "m"],
+    "level": 3,
+    "contoh_kata": ["jam", "jambu"]
+  },
+  {
+    "id": "jan",
+    "teks": "jan",
+    "pola": "KVK",
+    "huruf": ["j", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["hujan", "jantung"]
+  },
+  {
+    "id": "jen",
+    "teks": "jen",
+    "pola": "KVK",
+    "huruf": ["j", "e", "n"],
+    "level": 3,
+    "contoh_kata": ["jendela"]
+  },
+  {
+    "id": "jid",
+    "teks": "jid",
+    "pola": "KVK",
+    "huruf": ["j", "i", "d"],
+    "level": 3,
+    "contoh_kata": ["masjid"]
+  },
+  {
+    "id": "jin",
+    "teks": "jin",
+    "pola": "KVK",
+    "huruf": ["j", "i", "n"],
+    "level": 3,
+    "contoh_kata": ["rajin"]
+  },
+  {
+    "id": "juh",
+    "teks": "juh",
+    "pola": "KVK",
+    "huruf": ["j", "u", "h"],
+    "level": 3,
+    "contoh_kata": ["tujuh"]
+  },
+  {
+    "id": "kak",
+    "teks": "kak",
+    "pola": "KVK",
+    "huruf": ["k", "a", "k"],
+    "level": 3,
+    "contoh_kata": ["kakak"]
+  },
+  {
+    "id": "kam",
+    "teks": "kam",
+    "pola": "KVK",
+    "huruf": ["k", "a", "m"],
+    "level": 3,
+    "contoh_kata": ["kambing"]
+  },
+  {
+    "id": "kan",
+    "teks": "kan",
+    "pola": "KVK",
+    "huruf": ["k", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["ikan", "kancil", "makan"]
+  },
+  {
+    "id": "kar",
+    "teks": "kar",
+    "pola": "KVK",
+    "huruf": ["k", "a", "r"],
+    "level": 3,
+    "contoh_kata": ["akar", "tikar"]
+  },
+  {
+    "id": "kek",
+    "teks": "kek",
+    "pola": "KVK",
+    "huruf": ["k", "e", "k"],
+    "level": 3,
+    "contoh_kata": ["kakek"]
+  },
+  {
+    "id": "kel",
+    "teks": "kel",
+    "pola": "KVK",
+    "huruf": ["k", "e", "l"],
+    "level": 3,
+    "contoh_kata": ["bengkel"]
+  },
+  {
+    "id": "ken",
+    "teks": "ken",
+    "pola": "KVK",
+    "huruf": ["k", "e", "n"],
+    "level": 3,
+    "contoh_kata": ["kentang"]
+  },
+  {
+    "id": "ker",
+    "teks": "ker",
+    "pola": "KVK",
+    "huruf": ["k", "e", "r"],
+    "level": 3,
+    "contoh_kata": ["kertas", "kerbau"]
+  },
+  {
+    "id": "ket",
+    "teks": "ket",
+    "pola": "KVK",
+    "huruf": ["k", "e", "t"],
+    "level": 3,
+    "contoh_kata": ["jaket"]
+  },
+  {
+    "id": "kit",
+    "teks": "kit",
+    "pola": "KVK",
+    "huruf": ["k", "i", "t"],
+    "level": 3,
+    "contoh_kata": ["bukit"]
+  },
+  {
+    "id": "kom",
+    "teks": "kom",
+    "pola": "KVK",
+    "huruf": ["k", "o", "m"],
+    "level": 3,
+    "contoh_kata": ["komputer"]
+  },
+  {
+    "id": "kot",
+    "teks": "kot",
+    "pola": "KVK",
+    "huruf": ["k", "o", "t"],
+    "level": 3,
+    "contoh_kata": ["angkot"]
+  },
+  {
+    "id": "kuk",
+    "teks": "kuk",
+    "pola": "KVK",
+    "huruf": ["k", "u", "k"],
+    "level": 3,
+    "contoh_kata": ["mangkuk"]
+  },
+  {
+    "id": "kun",
+    "teks": "kun",
+    "pola": "KVK",
+    "huruf": ["k", "u", "n"],
+    "level": 3,
+    "contoh_kata": ["kunci"]
+  },
+  {
+    "id": "kur",
+    "teks": "kur",
+    "pola": "KVK",
+    "huruf": ["k", "u", "r"],
+    "level": 3,
+    "contoh_kata": ["kursi", "syukur"]
+  },
+  {
+    "id": "kus",
+    "teks": "kus",
+    "pola": "KVK",
+    "huruf": ["k", "u", "s"],
+    "level": 3,
+    "contoh_kata": ["tikus"]
+  },
+  {
+    "id": "lah",
+    "teks": "lah",
+    "pola": "KVK",
+    "huruf": ["l", "a", "h"],
+    "level": 3,
+    "contoh_kata": ["sekolah"]
+  },
+  {
+    "id": "lak",
+    "teks": "lak",
+    "pola": "KVK",
+    "huruf": ["l", "a", "k"],
+    "level": 3,
+    "contoh_kata": ["salak"]
+  },
+  {
+    "id": "lam",
+    "teks": "lam",
+    "pola": "KVK",
+    "huruf": ["l", "a", "m"],
+    "level": 3,
+    "contoh_kata": ["lampu", "malam"]
+  },
+  {
+    "id": "lan",
+    "teks": "lan",
+    "pola": "KVK",
+    "huruf": ["l", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["bulan", "jalan", "pelan"]
+  },
+  {
+    "id": "lar",
+    "teks": "lar",
+    "pola": "KVK",
+    "huruf": ["l", "a", "r"],
+    "level": 3,
+    "contoh_kata": ["ular"]
+  },
+  {
+    "id": "las",
+    "teks": "las",
+    "pola": "KVK",
+    "huruf": ["l", "a", "s"],
+    "level": 3,
+    "contoh_kata": ["gelas", "kelas"]
+  },
+  {
+    "id": "lat",
+    "teks": "lat",
+    "pola": "KVK",
+    "huruf": ["l", "a", "t"],
+    "level": 3,
+    "contoh_kata": ["cokelat", "lalat", "ulat"]
+  },
+  {
+    "id": "lin",
+    "teks": "lin",
+    "pola": "KVK",
+    "huruf": ["l", "i", "n"],
+    "level": 3,
+    "contoh_kata": ["kelinci"]
+  },
+  {
+    "id": "lis",
+    "teks": "lis",
+    "pola": "KVK",
+    "huruf": ["l", "i", "s"],
+    "level": 3,
+    "contoh_kata": ["alis", "menulis", "tulis"]
+  },
+  {
+    "id": "lit",
+    "teks": "lit",
+    "pola": "KVK",
+    "huruf": ["l", "i", "t"],
+    "level": 3,
+    "contoh_kata": ["kulit"]
+  },
+  {
+    "id": "lom",
+    "teks": "lom",
+    "pola": "KVK",
+    "huruf": ["l", "o", "m"],
+    "level": 3,
+    "contoh_kata": ["lompat"]
+  },
+  {
+    "id": "lon",
+    "teks": "lon",
+    "pola": "KVK",
+    "huruf": ["l", "o", "n"],
+    "level": 3,
+    "contoh_kata": ["balon", "melon"]
+  },
+  {
+    "id": "luh",
+    "teks": "luh",
+    "pola": "KVK",
+    "huruf": ["l", "u", "h"],
+    "level": 3,
+    "contoh_kata": ["sepuluh"]
+  },
+  {
+    "id": "lur",
+    "teks": "lur",
+    "pola": "KVK",
+    "huruf": ["l", "u", "r"],
+    "level": 3,
+    "contoh_kata": ["telur"]
+  },
+  {
+    "id": "lut",
+    "teks": "lut",
+    "pola": "KVK",
+    "huruf": ["l", "u", "t"],
+    "level": 3,
+    "contoh_kata": ["mulut"]
+  },
+  {
+    "id": "mah",
+    "teks": "mah",
+    "pola": "KVK",
+    "huruf": ["m", "a", "h"],
+    "level": 3,
+    "contoh_kata": ["rumah"]
+  },
+  {
+    "id": "man",
+    "teks": "man",
+    "pola": "KVK",
+    "huruf": ["m", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["halaman", "mandi", "paman"]
+  },
+  {
+    "id": "mar",
+    "teks": "mar",
+    "pola": "KVK",
+    "huruf": ["m", "a", "r"],
+    "level": 3,
+    "contoh_kata": ["kamar"]
+  },
+  {
+    "id": "mas",
+    "teks": "mas",
+    "pola": "KVK",
+    "huruf": ["m", "a", "s"],
+    "level": 3,
+    "contoh_kata": ["masjid"]
+  },
+  {
+    "id": "mat",
+    "teks": "mat",
+    "pola": "KVK",
+    "huruf": ["m", "a", "t"],
+    "level": 3,
+    "contoh_kata": ["tomat"]
+  },
+  {
+    "id": "mem",
+    "teks": "mem",
+    "pola": "KVK",
+    "huruf": ["m", "e", "m"],
+    "level": 3,
+    "contoh_kata": ["membaca"]
+  },
+  {
+    "id": "men",
+    "teks": "men",
+    "pola": "KVK",
+    "huruf": ["m", "e", "n"],
+    "level": 3,
+    "contoh_kata": ["permen"]
+  },
+  {
+    "id": "min",
+    "teks": "min",
+    "pola": "KVK",
+    "huruf": ["m", "i", "n"],
+    "level": 3,
+    "contoh_kata": ["cermin"]
+  },
+  {
+    "id": "mon",
+    "teks": "mon",
+    "pola": "KVK",
+    "huruf": ["m", "o", "n"],
+    "level": 3,
+    "contoh_kata": ["lemon"]
+  },
+  {
+    "id": "muk",
+    "teks": "muk",
+    "pola": "KVK",
+    "huruf": ["m", "u", "k"],
+    "level": 3,
+    "contoh_kata": ["gemuk"]
+  },
+  {
+    "id": "mun",
+    "teks": "mun",
+    "pola": "KVK",
+    "huruf": ["m", "u", "n"],
+    "level": 3,
+    "contoh_kata": ["timun"]
+  },
+  {
+    "id": "mut",
+    "teks": "mut",
+    "pola": "KVK",
+    "huruf": ["m", "u", "t"],
+    "level": 3,
+    "contoh_kata": ["selimut", "semut"]
+  },
+  {
+    "id": "nah",
+    "teks": "nah",
+    "pola": "KVK",
+    "huruf": ["n", "a", "h"],
+    "level": 3,
+    "contoh_kata": ["tanah"]
+  },
+  {
+    "id": "nak",
+    "teks": "nak",
+    "pola": "KVK",
+    "huruf": ["n", "a", "k"],
+    "level": 3,
+    "contoh_kata": ["anak", "enak"]
+  },
+  {
+    "id": "nam",
+    "teks": "nam",
+    "pola": "KVK",
+    "huruf": ["n", "a", "m"],
+    "level": 3,
+    "contoh_kata": ["enam"]
+  },
+  {
+    "id": "nan",
+    "teks": "nan",
+    "pola": "KVK",
+    "huruf": ["n", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["mainan"]
+  },
+  {
+    "id": "nas",
+    "teks": "nas",
+    "pola": "KVK",
+    "huruf": ["n", "a", "s"],
+    "level": 3,
+    "contoh_kata": ["nanas", "panas"]
+  },
+  {
+    "id": "nek",
+    "teks": "nek",
+    "pola": "KVK",
+    "huruf": ["n", "e", "k"],
+    "level": 3,
+    "contoh_kata": ["nenek"]
+  },
+  {
+    "id": "nis",
+    "teks": "nis",
+    "pola": "KVK",
+    "huruf": ["n", "i", "s"],
+    "level": 3,
+    "contoh_kata": ["manis"]
+  },
+  {
+    "id": "num",
+    "teks": "num",
+    "pola": "KVK",
+    "huruf": ["n", "u", "m"],
+    "level": 3,
+    "contoh_kata": ["minum"]
+  },
+  {
+    "id": "os",
+    "teks": "os",
+    "pola": "VK",
+    "huruf": ["o", "s"],
+    "level": 3,
+    "contoh_kata": ["kaos"]
+  },
+  {
+    "id": "pak",
+    "teks": "pak",
+    "pola": "KVK",
+    "huruf": ["p", "a", "k"],
+    "level": 3,
+    "contoh_kata": ["bapak"]
+  },
+  {
+    "id": "pal",
+    "teks": "pal",
+    "pola": "KVK",
+    "huruf": ["p", "a", "l"],
+    "level": 3,
+    "contoh_kata": ["kapal"]
+  },
+  {
+    "id": "pan",
+    "teks": "pan",
+    "pola": "KVK",
+    "huruf": ["p", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["delapan", "panjang", "pantai"]
+  },
+  {
+    "id": "par",
+    "teks": "par",
+    "pola": "KVK",
+    "huruf": ["p", "a", "r"],
+    "level": 3,
+    "contoh_kata": ["lapar"]
+  },
+  {
+    "id": "pas",
+    "teks": "pas",
+    "pola": "KVK",
+    "huruf": ["p", "a", "s"],
+    "level": 3,
+    "contoh_kata": ["kipas"]
+  },
+  {
+    "id": "pat",
+    "teks": "pat",
+    "pola": "KVK",
+    "huruf": ["p", "a", "t"],
+    "level": 3,
+    "contoh_kata": ["cepat", "empat", "lompat"]
+  },
+  {
+    "id": "pel",
+    "teks": "pel",
+    "pola": "KVK",
+    "huruf": ["p", "e", "l"],
+    "level": 3,
+    "contoh_kata": ["apel"]
+  },
+  {
+    "id": "pen",
+    "teks": "pen",
+    "pola": "KVK",
+    "huruf": ["p", "e", "n"],
+    "level": 3,
+    "contoh_kata": ["pendek", "pensil", "pulpen"]
+  },
+  {
+    "id": "per",
+    "teks": "per",
+    "pola": "KVK",
+    "huruf": ["p", "e", "r"],
+    "level": 3,
+    "contoh_kata": ["pergi", "permen"]
+  },
+  {
+    "id": "pet",
+    "teks": "pet",
+    "pola": "KVK",
+    "huruf": ["p", "e", "t"],
+    "level": 3,
+    "contoh_kata": ["dompet"]
+  },
+  {
+    "id": "pin",
+    "teks": "pin",
+    "pola": "KVK",
+    "huruf": ["p", "i", "n"],
+    "level": 3,
+    "contoh_kata": ["pintar", "pintu"]
+  },
+  {
+    "id": "pon",
+    "teks": "pon",
+    "pola": "KVK",
+    "huruf": ["p", "o", "n"],
+    "level": 3,
+    "contoh_kata": ["telepon"]
+  },
+  {
+    "id": "pul",
+    "teks": "pul",
+    "pola": "KVK",
+    "huruf": ["p", "u", "l"],
+    "level": 3,
+    "contoh_kata": ["pulpen"]
+  },
+  {
+    "id": "pun",
+    "teks": "pun",
+    "pola": "KVK",
+    "huruf": ["p", "u", "n"],
+    "level": 3,
+    "contoh_kata": ["pundak"]
+  },
+  {
+    "id": "pur",
+    "teks": "pur",
+    "pola": "KVK",
+    "huruf": ["p", "u", "r"],
+    "level": 3,
+    "contoh_kata": ["dapur"]
+  },
+  {
+    "id": "put",
+    "teks": "put",
+    "pola": "KVK",
+    "huruf": ["p", "u", "t"],
+    "level": 3,
+    "contoh_kata": ["rumput"]
+  },
+  {
+    "id": "rah",
+    "teks": "rah",
+    "pola": "KVK",
+    "huruf": ["r", "a", "h"],
+    "level": 3,
+    "contoh_kata": ["merah", "murah"]
+  },
+  {
+    "id": "ram",
+    "teks": "ram",
+    "pola": "KVK",
+    "huruf": ["r", "a", "m"],
+    "level": 3,
+    "contoh_kata": ["garam", "rambut", "rambutan"]
+  },
+  {
+    "id": "rok",
+    "teks": "rok",
+    "pola": "KVK",
+    "huruf": ["r", "o", "k"],
+    "level": 3,
+    "contoh_kata": ["rok"]
+  },
+  {
+    "id": "ruk",
+    "teks": "ruk",
+    "pola": "KVK",
+    "huruf": ["r", "u", "k"],
+    "level": 3,
+    "contoh_kata": ["jeruk"]
+  },
+  {
+    "id": "rum",
+    "teks": "rum",
+    "pola": "KVK",
+    "huruf": ["r", "u", "m"],
+    "level": 3,
+    "contoh_kata": ["rumput"]
+  },
+  {
+    "id": "rus",
+    "teks": "rus",
+    "pola": "KVK",
+    "huruf": ["r", "u", "s"],
+    "level": 3,
+    "contoh_kata": ["kurus"]
+  },
+  {
+    "id": "rut",
+    "teks": "rut",
+    "pola": "KVK",
+    "huruf": ["r", "u", "t"],
+    "level": 3,
+    "contoh_kata": ["perut"]
+  },
+  {
+    "id": "sam",
+    "teks": "sam",
+    "pola": "KVK",
+    "huruf": ["s", "a", "m"],
+    "level": 3,
+    "contoh_kata": ["sambal"]
+  },
+  {
+    "id": "san",
+    "teks": "san",
+    "pola": "KVK",
+    "huruf": ["s", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["sandal"]
+  },
+  {
+    "id": "sar",
+    "teks": "sar",
+    "pola": "KVK",
+    "huruf": ["s", "a", "r"],
+    "level": 3,
+    "contoh_kata": ["besar", "pasar"]
+  },
+  {
+    "id": "sem",
+    "teks": "sem",
+    "pola": "KVK",
+    "huruf": ["s", "e", "m"],
+    "level": 3,
+    "contoh_kata": ["sembilan"]
+  },
+  {
+    "id": "sen",
+    "teks": "sen",
+    "pola": "KVK",
+    "huruf": ["s", "e", "n"],
+    "level": 3,
+    "contoh_kata": ["sendok"]
+  },
+  {
+    "id": "sih",
+    "teks": "sih",
+    "pola": "KVK",
+    "huruf": ["s", "i", "h"],
+    "level": 3,
+    "contoh_kata": ["bersih"]
+  },
+  {
+    "id": "sil",
+    "teks": "sil",
+    "pola": "KVK",
+    "huruf": ["s", "i", "l"],
+    "level": 3,
+    "contoh_kata": ["pensil"]
+  },
+  {
+    "id": "sin",
+    "teks": "sin",
+    "pola": "KVK",
+    "huruf": ["s", "i", "n"],
+    "level": 3,
+    "contoh_kata": ["asin"]
+  },
+  {
+    "id": "sir",
+    "teks": "sir",
+    "pola": "KVK",
+    "huruf": ["s", "i", "r"],
+    "level": 3,
+    "contoh_kata": ["pasir", "sisir"]
+  },
+  {
+    "id": "sur",
+    "teks": "sur",
+    "pola": "KVK",
+    "huruf": ["s", "u", "r"],
+    "level": 3,
+    "contoh_kata": ["kasur"]
+  },
+  {
+    "id": "sus",
+    "teks": "sus",
+    "pola": "KVK",
+    "huruf": ["s", "u", "s"],
+    "level": 3,
+    "contoh_kata": ["khusus"]
+  },
+  {
+    "id": "tal",
+    "teks": "tal",
+    "pola": "KVK",
+    "huruf": ["t", "a", "l"],
+    "level": 3,
+    "contoh_kata": ["bantal"]
+  },
+  {
+    "id": "tam",
+    "teks": "tam",
+    "pola": "KVK",
+    "huruf": ["t", "a", "m"],
+    "level": 3,
+    "contoh_kata": ["hitam"]
+  },
+  {
+    "id": "tan",
+    "teks": "tan",
+    "pola": "KVK",
+    "huruf": ["t", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["hutan", "rambutan"]
+  },
+  {
+    "id": "tar",
+    "teks": "tar",
+    "pola": "KVK",
+    "huruf": ["t", "a", "r"],
+    "level": 3,
+    "contoh_kata": ["gitar", "pintar"]
+  },
+  {
+    "id": "tas",
+    "teks": "tas",
+    "pola": "KVK",
+    "huruf": ["t", "a", "s"],
+    "level": 3,
+    "contoh_kata": ["kertas", "tas"]
+  },
+  {
+    "id": "teh",
+    "teks": "teh",
+    "pola": "KVK",
+    "huruf": ["t", "e", "h"],
+    "level": 3,
+    "contoh_kata": ["teh"]
+  },
+  {
+    "id": "tel",
+    "teks": "tel",
+    "pola": "KVK",
+    "huruf": ["t", "e", "l"],
+    "level": 3,
+    "contoh_kata": ["wortel"]
+  },
+  {
+    "id": "tem",
+    "teks": "tem",
+    "pola": "KVK",
+    "huruf": ["t", "e", "m"],
+    "level": 3,
+    "contoh_kata": ["tempe"]
+  },
+  {
+    "id": "ten",
+    "teks": "ten",
+    "pola": "KVK",
+    "huruf": ["t", "e", "n"],
+    "level": 3,
+    "contoh_kata": ["tendang"]
+  },
+  {
+    "id": "ter",
+    "teks": "ter",
+    "pola": "KVK",
+    "huruf": ["t", "e", "r"],
+    "level": 3,
+    "contoh_kata": ["komputer", "terbang"]
+  },
+  {
+    "id": "tih",
+    "teks": "tih",
+    "pola": "KVK",
+    "huruf": ["t", "i", "h"],
+    "level": 3,
+    "contoh_kata": ["putih"]
+  },
+  {
+    "id": "tik",
+    "teks": "tik",
+    "pola": "KVK",
+    "huruf": ["t", "i", "k"],
+    "level": 3,
+    "contoh_kata": ["cantik"]
+  },
+  {
+    "id": "tir",
+    "teks": "tir",
+    "pola": "KVK",
+    "huruf": ["t", "i", "r"],
+    "level": 3,
+    "contoh_kata": ["petir"]
+  },
+  {
+    "id": "tol",
+    "teks": "tol",
+    "pola": "KVK",
+    "huruf": ["t", "o", "l"],
+    "level": 3,
+    "contoh_kata": ["botol"]
+  },
+  {
+    "id": "tor",
+    "teks": "tor",
+    "pola": "KVK",
+    "huruf": ["t", "o", "r"],
+    "level": 3,
+    "contoh_kata": ["kotor", "motor"]
+  },
+  {
+    "id": "tup",
+    "teks": "tup",
+    "pola": "KVK",
+    "huruf": ["t", "u", "p"],
+    "level": 3,
+    "contoh_kata": ["tutup"]
+  },
+  {
+    "id": "tut",
+    "teks": "tut",
+    "pola": "KVK",
+    "huruf": ["t", "u", "t"],
+    "level": 3,
+    "contoh_kata": ["lutut"]
+  },
+  {
+    "id": "un",
+    "teks": "un",
+    "pola": "VK",
+    "huruf": ["u", "n"],
+    "level": 3,
+    "contoh_kata": ["daun", "unta"]
+  },
+  {
+    "id": "ut",
+    "teks": "ut",
+    "pola": "VK",
+    "huruf": ["u", "t"],
+    "level": 3,
+    "contoh_kata": ["laut"]
+  },
+  {
+    "id": "wah",
+    "teks": "wah",
+    "pola": "KVK",
+    "huruf": ["w", "a", "h"],
+    "level": 3,
+    "contoh_kata": ["sawah"]
+  },
+  {
+    "id": "wan",
+    "teks": "wan",
+    "pola": "KVK",
+    "huruf": ["w", "a", "n"],
+    "level": 3,
+    "contoh_kata": ["awan"]
+  },
+  {
+    "id": "wat",
+    "teks": "wat",
+    "pola": "KVK",
+    "huruf": ["w", "a", "t"],
+    "level": 3,
+    "contoh_kata": ["pesawat"]
+  },
+  {
+    "id": "wor",
+    "teks": "wor",
+    "pola": "KVK",
+    "huruf": ["w", "o", "r"],
+    "level": 3,
+    "contoh_kata": ["wortel"]
+  },
+  {
+    "id": "yah",
+    "teks": "yah",
+    "pola": "KVK",
+    "huruf": ["y", "a", "h"],
+    "level": 3,
+    "contoh_kata": ["ayah"]
+  },
+  {
+    "id": "yam",
+    "teks": "yam",
+    "pola": "KVK",
+    "huruf": ["y", "a", "m"],
+    "level": 3,
+    "contoh_kata": ["ayam", "bayam"]
+  },
+  {
+    "id": "yur",
+    "teks": "yur",
+    "pola": "KVK",
+    "huruf": ["y", "u", "r"],
+    "level": 3,
+    "contoh_kata": ["sayur"]
+  },
+  {
+    "id": "nga",
+    "teks": "nga",
+    "pola": "KV",
+    "huruf": ["ng", "a"],
+    "level": 4,
+    "contoh_kata": ["bunga", "singa", "telinga"]
+  },
+  {
+    "id": "ngi",
+    "teks": "ngi",
+    "pola": "KV",
+    "huruf": ["ng", "i"],
+    "level": 4,
+    "contoh_kata": ["pelangi"]
+  },
+  {
+    "id": "ngu",
+    "teks": "ngu",
+    "pola": "KV",
+    "huruf": ["ng", "u"],
+    "level": 4,
+    "contoh_kata": ["ungu"]
+  },
+  {
+    "id": "nge",
+    "teks": "nge",
+    "pola": "KV",
+    "huruf": ["ng", "e"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "ngo",
+    "teks": "ngo",
+    "pola": "KV",
+    "huruf": ["ng", "o"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "nya",
+    "teks": "nya",
+    "pola": "KV",
+    "huruf": ["ny", "a"],
+    "level": 4,
+    "contoh_kata": ["nyanyi"]
+  },
+  {
+    "id": "nyi",
+    "teks": "nyi",
+    "pola": "KV",
+    "huruf": ["ny", "i"],
+    "level": 4,
+    "contoh_kata": ["nyanyi"]
+  },
+  {
+    "id": "nyu",
+    "teks": "nyu",
+    "pola": "KV",
+    "huruf": ["ny", "u"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "nye",
+    "teks": "nye",
+    "pola": "KV",
+    "huruf": ["ny", "e"],
+    "level": 4,
+    "contoh_kata": ["oranye"]
+  },
+  {
+    "id": "nyo",
+    "teks": "nyo",
+    "pola": "KV",
+    "huruf": ["ny", "o"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "sya",
+    "teks": "sya",
+    "pola": "KV",
+    "huruf": ["sy", "a"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "syi",
+    "teks": "syi",
+    "pola": "KV",
+    "huruf": ["sy", "i"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "syu",
+    "teks": "syu",
+    "pola": "KV",
+    "huruf": ["sy", "u"],
+    "level": 4,
+    "contoh_kata": ["syukur"]
+  },
+  {
+    "id": "sye",
+    "teks": "sye",
+    "pola": "KV",
+    "huruf": ["sy", "e"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "syo",
+    "teks": "syo",
+    "pola": "KV",
+    "huruf": ["sy", "o"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "kha",
+    "teks": "kha",
+    "pola": "KV",
+    "huruf": ["kh", "a"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "khi",
+    "teks": "khi",
+    "pola": "KV",
+    "huruf": ["kh", "i"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "khu",
+    "teks": "khu",
+    "pola": "KV",
+    "huruf": ["kh", "u"],
+    "level": 4,
+    "contoh_kata": ["khusus"]
+  },
+  {
+    "id": "khe",
+    "teks": "khe",
+    "pola": "KV",
+    "huruf": ["kh", "e"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "kho",
+    "teks": "kho",
+    "pola": "KV",
+    "huruf": ["kh", "o"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "ai",
+    "teks": "ai",
+    "pola": "V",
+    "huruf": ["ai"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "au",
+    "teks": "au",
+    "pola": "V",
+    "huruf": ["au"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "oi",
+    "teks": "oi",
+    "pola": "V",
+    "huruf": ["oi"],
+    "level": 4,
+    "contoh_kata": []
+  },
+  {
+    "id": "ang",
+    "teks": "ang",
+    "pola": "VK",
+    "huruf": ["a", "ng"],
+    "level": 4,
+    "contoh_kata": ["anggur", "angkot", "siang"]
+  },
+  {
+    "id": "bai",
+    "teks": "bai",
+    "pola": "KV",
+    "huruf": ["b", "ai"],
+    "level": 4,
+    "contoh_kata": ["cabai"]
+  },
+  {
+    "id": "bang",
+    "teks": "bang",
+    "pola": "KVK",
+    "huruf": ["b", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["terbang"]
+  },
+  {
+    "id": "bau",
+    "teks": "bau",
+    "pola": "KV",
+    "huruf": ["b", "au"],
+    "level": 4,
+    "contoh_kata": ["kerbau"]
+  },
+  {
+    "id": "beng",
+    "teks": "beng",
+    "pola": "KVK",
+    "huruf": ["b", "e", "ng"],
+    "level": 4,
+    "contoh_kata": ["bengkel"]
+  },
+  {
+    "id": "bing",
+    "teks": "bing",
+    "pola": "KVK",
+    "huruf": ["b", "i", "ng"],
+    "level": 4,
+    "contoh_kata": ["kambing"]
+  },
+  {
+    "id": "cing",
+    "teks": "cing",
+    "pola": "KVK",
+    "huruf": ["c", "i", "ng"],
+    "level": 4,
+    "contoh_kata": ["kucing"]
+  },
+  {
+    "id": "dang",
+    "teks": "dang",
+    "pola": "KVK",
+    "huruf": ["d", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["tendang", "udang"]
+  },
+  {
+    "id": "dung",
+    "teks": "dung",
+    "pola": "KVK",
+    "huruf": ["d", "u", "ng"],
+    "level": 4,
+    "contoh_kata": ["hidung"]
+  },
+  {
+    "id": "gung",
+    "teks": "gung",
+    "pola": "KVK",
+    "huruf": ["g", "u", "ng"],
+    "level": 4,
+    "contoh_kata": ["jagung"]
+  },
+  {
+    "id": "jang",
+    "teks": "jang",
+    "pola": "KVK",
+    "huruf": ["j", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["panjang"]
+  },
+  {
+    "id": "jau",
+    "teks": "jau",
+    "pola": "KV",
+    "huruf": ["j", "au"],
+    "level": 4,
+    "contoh_kata": ["hijau"]
+  },
+  {
+    "id": "jing",
+    "teks": "jing",
+    "pola": "KVK",
+    "huruf": ["j", "i", "ng"],
+    "level": 4,
+    "contoh_kata": ["jingga"]
+  },
+  {
+    "id": "khir",
+    "teks": "khir",
+    "pola": "KVK",
+    "huruf": ["kh", "i", "r"],
+    "level": 4,
+    "contoh_kata": ["akhir"]
+  },
+  {
+    "id": "lang",
+    "teks": "lang",
+    "pola": "KVK",
+    "huruf": ["l", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["pulang"]
+  },
+  {
+    "id": "lau",
+    "teks": "lau",
+    "pola": "KV",
+    "huruf": ["l", "au"],
+    "level": 4,
+    "contoh_kata": ["pulau"]
+  },
+  {
+    "id": "mang",
+    "teks": "mang",
+    "pola": "KVK",
+    "huruf": ["m", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["mangga", "mangkuk", "semangka"]
+  },
+  {
+    "id": "mau",
+    "teks": "mau",
+    "pola": "KV",
+    "huruf": ["m", "au"],
+    "level": 4,
+    "contoh_kata": ["harimau", "mau"]
+  },
+  {
+    "id": "ming",
+    "teks": "ming",
+    "pola": "KVK",
+    "huruf": ["m", "i", "ng"],
+    "level": 4,
+    "contoh_kata": ["minggu"]
+  },
+  {
+    "id": "nang",
+    "teks": "nang",
+    "pola": "KVK",
+    "huruf": ["n", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["senang"]
+  },
+  {
+    "id": "nau",
+    "teks": "nau",
+    "pola": "KV",
+    "huruf": ["n", "au"],
+    "level": 4,
+    "contoh_kata": ["danau"]
+  },
+  {
+    "id": "ngai",
+    "teks": "ngai",
+    "pola": "KV",
+    "huruf": ["ng", "ai"],
+    "level": 4,
+    "contoh_kata": ["sungai"]
+  },
+  {
+    "id": "ngan",
+    "teks": "ngan",
+    "pola": "KVK",
+    "huruf": ["ng", "a", "n"],
+    "level": 4,
+    "contoh_kata": ["dengan", "tangan"]
+  },
+  {
+    "id": "ngin",
+    "teks": "ngin",
+    "pola": "KVK",
+    "huruf": ["ng", "i", "n"],
+    "level": 4,
+    "contoh_kata": ["angin", "dingin"]
+  },
+  {
+    "id": "ngit",
+    "teks": "ngit",
+    "pola": "KVK",
+    "huruf": ["ng", "i", "t"],
+    "level": 4,
+    "contoh_kata": ["langit"]
+  },
+  {
+    "id": "ngun",
+    "teks": "ngun",
+    "pola": "KVK",
+    "huruf": ["ng", "u", "n"],
+    "level": 4,
+    "contoh_kata": ["bangun"]
+  },
+  {
+    "id": "ning",
+    "teks": "ning",
+    "pola": "KVK",
+    "huruf": ["n", "i", "ng"],
+    "level": 4,
+    "contoh_kata": ["kuning"]
+  },
+  {
+    "id": "nung",
+    "teks": "nung",
+    "pola": "KVK",
+    "huruf": ["n", "u", "ng"],
+    "level": 4,
+    "contoh_kata": ["gunung"]
+  },
+  {
+    "id": "nyak",
+    "teks": "nyak",
+    "pola": "KVK",
+    "huruf": ["ny", "a", "k"],
+    "level": 4,
+    "contoh_kata": ["banyak"]
+  },
+  {
+    "id": "nyang",
+    "teks": "nyang",
+    "pola": "KVK",
+    "huruf": ["ny", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["kenyang"]
+  },
+  {
+    "id": "nyet",
+    "teks": "nyet",
+    "pola": "KVK",
+    "huruf": ["ny", "e", "t"],
+    "level": 4,
+    "contoh_kata": ["monyet"]
+  },
+  {
+    "id": "ring",
+    "teks": "ring",
+    "pola": "KVK",
+    "huruf": ["r", "i", "ng"],
+    "level": 4,
+    "contoh_kata": ["piring"]
+  },
+  {
+    "id": "rung",
+    "teks": "rung",
+    "pola": "KVK",
+    "huruf": ["r", "u", "ng"],
+    "level": 4,
+    "contoh_kata": ["burung"]
+  },
+  {
+    "id": "sang",
+    "teks": "sang",
+    "pola": "KVK",
+    "huruf": ["s", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["pisang"]
+  },
+  {
+    "id": "tai",
+    "teks": "tai",
+    "pola": "KV",
+    "huruf": ["t", "ai"],
+    "level": 4,
+    "contoh_kata": ["pantai"]
+  },
+  {
+    "id": "tang",
+    "teks": "tang",
+    "pola": "KVK",
+    "huruf": ["t", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["bintang", "datang", "kentang"]
+  },
+  {
+    "id": "ting",
+    "teks": "ting",
+    "pola": "KVK",
+    "huruf": ["t", "i", "ng"],
+    "level": 4,
+    "contoh_kata": ["tinggi"]
+  },
+  {
+    "id": "truk",
+    "teks": "truk",
+    "pola": "KKVK",
+    "huruf": ["t", "r", "u", "k"],
+    "level": 4,
+    "contoh_kata": ["truk"]
+  },
+  {
+    "id": "tung",
+    "teks": "tung",
+    "pola": "KVK",
+    "huruf": ["t", "u", "ng"],
+    "level": 4,
+    "contoh_kata": ["jantung"]
+  },
+  {
+    "id": "wang",
+    "teks": "wang",
+    "pola": "KVK",
+    "huruf": ["w", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["bawang"]
+  },
+  {
+    "id": "yang",
+    "teks": "yang",
+    "pola": "KVK",
+    "huruf": ["y", "a", "ng"],
+    "level": 4,
+    "contoh_kata": ["yang"]
+  },
+  {
+    "id": "yung",
+    "teks": "yung",
+    "pola": "KVK",
+    "huruf": ["y", "u", "ng"],
+    "level": 4,
+    "contoh_kata": ["payung"]
+  }
+]

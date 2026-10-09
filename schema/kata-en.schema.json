@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "kata-en.schema.json",
+  "title": "Kata (Inggris)",
+  "description": "Daftar kata bahasa Inggris beserta pemenggalan suku kata (syllable) dan emoji.",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "teks",
+      "suku_kata",
+      "jumlah_suku_kata",
+      "kategori",
+      "emoji",
+      "gambar",
+      "audio"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z]+$"
+      },
+      "teks": {
+        "type": "string",
+        "pattern": "^[a-z]+$"
+      },
+      "suku_kata": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z]+$"
+        }
+      },
+      "jumlah_suku_kata": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "kategori": {
+        "type": "string",
+        "enum": [
+          "hewan",
+          "buah",
+          "sayur",
+          "tubuh",
+          "makanan",
+          "benda",
+          "pakaian",
+          "kendaraan",
+          "tempat",
+          "alam",
+          "warna",
+          "angka",
+          "lainnya"
+        ]
+      },
+      "emoji": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Emoji yang mewakili kata, atau null jika tidak ada."
+      },
+      "gambar": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Nama berkas gambar, atau null jika belum ada."
+      },
+      "audio": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "description": "Nama berkas audio, atau null jika belum ada."
+      }
+    }
+  }
+}

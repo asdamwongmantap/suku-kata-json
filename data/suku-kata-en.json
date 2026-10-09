@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ap",
+    "teks": "ap",
+    "level": 1,
+    "contoh_kata": ["apple"]
+  },
+  {
+    "id": "ba",
+    "teks": "ba",
+    "level": 1,
+    "contoh_kata": ["banana"]
+  },
+  {
+    "id": "di",
+    "teks": "di",
+    "level": 1,
+    "contoh_kata": ["dinosaur"]
+  },
+  {
+    "id": "er",
+    "teks": "er",
+    "level": 1,
+    "contoh_kata": ["flower"]
+  },
+  {
+    "id": "na",
+    "teks": "na",
+    "level": 1,
+    "contoh_kata": ["banana", "banana"]
+  },
+  {
+    "id": "no",
+    "teks": "no",
+    "level": 1,
+    "contoh_kata": ["dinosaur"]
+  },
+  {
+    "id": "py",
+    "teks": "py",
+    "level": 1,
+    "contoh_kata": ["puppy"]
+  },
+  {
+    "id": "ti",
+    "teks": "ti",
+    "level": 1,
+    "contoh_kata": ["tiger"]
+  },
+  {
+    "id": "bit",
+    "teks": "bit",
+    "level": 2,
+    "contoh_kata": ["rabbit"]
+  },
+  {
+    "id": "but",
+    "teks": "but",
+    "level": 2,
+    "contoh_kata": ["butterfly"]
+  },
+  {
+    "id": "cil",
+    "teks": "cil",
+    "level": 2,
+    "contoh_kata": ["pencil"]
+  },
+  {
+    "id": "fly",
+    "teks": "fly",
+    "level": 2,
+    "contoh_kata": ["butterfly"]
+  },
+  {
+    "id": "ger",
+    "teks": "ger",
+    "level": 2,
+    "contoh_kata": ["tiger"]
+  },
+  {
+    "id": "key",
+    "teks": "key",
+    "level": 2,
+    "contoh_kata": ["monkey"]
+  },
+  {
+    "id": "mon",
+    "teks": "mon",
+    "level": 2,
+    "contoh_kata": ["monkey"]
+  },
+  {
+    "id": "pen",
+    "teks": "pen",
+    "level": 2,
+    "contoh_kata": ["pencil"]
+  },
+  {
+    "id": "ple",
+    "teks": "ple",
+    "level": 2,
+    "contoh_kata": ["apple"]
+  },
+  {
+    "id": "pup",
+    "teks": "pup",
+    "level": 2,
+    "contoh_kata": ["puppy"]
+  },
+  {
+    "id": "rab",
+    "teks": "rab",
+    "level": 2,
+    "contoh_kata": ["rabbit"]
+  },
+  {
+    "id": "ter",
+    "teks": "ter",
+    "level": 2,
+    "contoh_kata": ["butterfly"]
+  },
+  {
+    "id": "flow",
+    "teks": "flow",
+    "level": 3,
+    "contoh_kata": ["flower"]
+  },
+  {
+    "id": "saur",
+    "teks": "saur",
+    "level": 3,
+    "contoh_kata": ["dinosaur"]
+  }
+]

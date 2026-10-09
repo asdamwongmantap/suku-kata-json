@@ -1,0 +1,13 @@
+{
+  "name": "suku-kata-json",
+  "version": "1.0.0",
+  "description": "Dataset JSON untuk belajar membaca dan mengeja bahasa Indonesia (huruf, suku kata, kata, kalimat).",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate.js"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1"
+  }
+}

@@ -1,0 +1,373 @@
+[
+  {
+    "id": "ini-buku",
+    "teks": "Ini buku.",
+    "kata": ["ini", "buku"],
+    "jumlah_kata": 2,
+    "level": 5
+  },
+  {
+    "id": "itu-bola",
+    "teks": "Itu bola.",
+    "kata": ["itu", "bola"],
+    "jumlah_kata": 2,
+    "level": 5
+  },
+  {
+    "id": "apa-itu",
+    "teks": "Apa itu?",
+    "kata": ["apa", "itu"],
+    "jumlah_kata": 2,
+    "level": 5
+  },
+  {
+    "id": "ibu-makan-nasi",
+    "teks": "Ibu makan nasi.",
+    "kata": ["ibu", "makan", "nasi"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "ayah-minum-kopi",
+    "teks": "Ayah minum kopi.",
+    "kata": ["ayah", "minum", "kopi"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "adik-minum-susu",
+    "teks": "Adik minum susu.",
+    "kata": ["adik", "minum", "susu"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "kakak-membaca-buku",
+    "teks": "Kakak membaca buku.",
+    "kata": ["kakak", "membaca", "buku"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "aku-suka-apel",
+    "teks": "Aku suka apel.",
+    "kata": ["aku", "suka", "apel"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "ibu-ke-pasar",
+    "teks": "Ibu ke pasar.",
+    "kata": ["ibu", "ke", "pasar"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "ayah-di-kebun",
+    "teks": "Ayah di kebun.",
+    "kata": ["ayah", "di", "kebun"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "kucing-makan-ikan",
+    "teks": "Kucing makan ikan.",
+    "kata": ["kucing", "makan", "ikan"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "ayam-makan-jagung",
+    "teks": "Ayam makan jagung.",
+    "kata": ["ayam", "makan", "jagung"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "matahari-itu-panas",
+    "teks": "Matahari itu panas.",
+    "kata": ["matahari", "itu", "panas"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "hari-ini-hujan",
+    "teks": "Hari ini hujan.",
+    "kata": ["hari", "ini", "hujan"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "kakak-mandi-pagi",
+    "teks": "Kakak mandi pagi.",
+    "kata": ["kakak", "mandi", "pagi"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "baju-ini-bagus",
+    "teks": "Baju ini bagus.",
+    "kata": ["baju", "ini", "bagus"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "topi-itu-merah",
+    "teks": "Topi itu merah.",
+    "kata": ["topi", "itu", "merah"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "bola-itu-besar",
+    "teks": "Bola itu besar.",
+    "kata": ["bola", "itu", "besar"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "rumah-kami-kecil",
+    "teks": "Rumah kami kecil.",
+    "kata": ["rumah", "kami", "kecil"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "paman-bawa-tas",
+    "teks": "Paman bawa tas.",
+    "kata": ["paman", "bawa", "tas"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "sapi-makan-rumput",
+    "teks": "Sapi makan rumput.",
+    "kata": ["sapi", "makan", "rumput"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "gajah-itu-besar",
+    "teks": "Gajah itu besar.",
+    "kata": ["gajah", "itu", "besar"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "aku-melihat-bunga",
+    "teks": "Aku melihat bunga.",
+    "kata": ["aku", "melihat", "bunga"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "bunga-itu-cantik",
+    "teks": "Bunga itu cantik.",
+    "kata": ["bunga", "itu", "cantik"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "pisang-itu-manis",
+    "teks": "Pisang itu manis.",
+    "kata": ["pisang", "itu", "manis"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "garam-itu-asin",
+    "teks": "Garam itu asin.",
+    "kata": ["garam", "itu", "asin"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "lampu-di-meja",
+    "teks": "Lampu di meja.",
+    "kata": ["lampu", "di", "meja"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "aku-bisa-menulis",
+    "teks": "Aku bisa menulis.",
+    "kata": ["aku", "bisa", "menulis"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "ayah-naik-motor",
+    "teks": "Ayah naik motor.",
+    "kata": ["ayah", "naik", "motor"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "ibu-cuci-piring",
+    "teks": "Ibu cuci piring.",
+    "kata": ["ibu", "cuci", "piring"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "kami-tidak-lapar",
+    "teks": "Kami tidak lapar.",
+    "kata": ["kami", "tidak", "lapar"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "kamu-suka-kopi",
+    "teks": "Kamu suka kopi?",
+    "kata": ["kamu", "suka", "kopi"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "anak-itu-pintar",
+    "teks": "Anak itu pintar.",
+    "kata": ["anak", "itu", "pintar"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "aku-mau-tidur",
+    "teks": "Aku mau tidur.",
+    "kata": ["aku", "mau", "tidur"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "kami-senang-bermain",
+    "teks": "Kami senang bermain.",
+    "kata": ["kami", "senang", "bermain"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "ibu-beli-sayur",
+    "teks": "Ibu beli sayur.",
+    "kata": ["ibu", "beli", "sayur"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "bayam-itu-sayur",
+    "teks": "Bayam itu sayur.",
+    "kata": ["bayam", "itu", "sayur"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "nanas-itu-buah",
+    "teks": "Nanas itu buah.",
+    "kata": ["nanas", "itu", "buah"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "sepatu-itu-baru",
+    "teks": "Sepatu itu baru.",
+    "kata": ["sepatu", "itu", "baru"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "ibu-tutup-pintu",
+    "teks": "Ibu tutup pintu.",
+    "kata": ["ibu", "tutup", "pintu"],
+    "jumlah_kata": 3,
+    "level": 5
+  },
+  {
+    "id": "kita-pergi-ke-sekolah",
+    "teks": "Kita pergi ke sekolah.",
+    "kata": ["kita", "pergi", "ke", "sekolah"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "burung-terbang-di-langit",
+    "teks": "Burung terbang di langit.",
+    "kata": ["burung", "terbang", "di", "langit"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "adik-tidur-di-kamar",
+    "teks": "Adik tidur di kamar.",
+    "kata": ["adik", "tidur", "di", "kamar"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "nenek-duduk-di-kursi",
+    "teks": "Nenek duduk di kursi.",
+    "kata": ["nenek", "duduk", "di", "kursi"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "kakek-duduk-di-taman",
+    "teks": "Kakek duduk di taman.",
+    "kata": ["kakek", "duduk", "di", "taman"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "aku-mau-minum-air",
+    "teks": "Aku mau minum air.",
+    "kata": ["aku", "mau", "minum", "air"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "kuda-itu-lari-cepat",
+    "teks": "Kuda itu lari cepat.",
+    "kata": ["kuda", "itu", "lari", "cepat"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "dia-pergi-ke-toko",
+    "teks": "Dia pergi ke toko.",
+    "kata": ["dia", "pergi", "ke", "toko"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "dia-menulis-dengan-pensil",
+    "teks": "Dia menulis dengan pensil.",
+    "kata": ["dia", "menulis", "dengan", "pensil"],
+    "jumlah_kata": 4,
+    "level": 5
+  },
+  {
+    "id": "bulan-dan-bintang-di-langit",
+    "teks": "Bulan dan bintang di langit.",
+    "kata": ["bulan", "dan", "bintang", "di", "langit"],
+    "jumlah_kata": 5,
+    "level": 5
+  },
+  {
+    "id": "kami-makan-nasi-dan-tahu",
+    "teks": "Kami makan nasi dan tahu.",
+    "kata": ["kami", "makan", "nasi", "dan", "tahu"],
+    "jumlah_kata": 5,
+    "level": 5
+  },
+  {
+    "id": "adik-bermain-bola-di-halaman",
+    "teks": "Adik bermain bola di halaman.",
+    "kata": ["adik", "bermain", "bola", "di", "halaman"],
+    "jumlah_kata": 5,
+    "level": 5
+  },
+  {
+    "id": "ayah-dan-ibu-di-rumah",
+    "teks": "Ayah dan ibu di rumah.",
+    "kata": ["ayah", "dan", "ibu", "di", "rumah"],
+    "jumlah_kata": 5,
+    "level": 5
+  }
+]

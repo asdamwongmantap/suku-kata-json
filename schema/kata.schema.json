@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "kata.schema.json",
+  "title": "Kata",
+  "description": "Daftar kata beserta pemenggalan suku kata.",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "teks", "suku_kata", "jumlah_suku_kata", "pola", "level", "kategori", "emoji", "gambar", "audio"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^[a-z]+$" },
+      "teks": { "type": "string", "pattern": "^[a-z]+$" },
+      "suku_kata": {
+        "type": "array",
+        "minItems": 1,
+        "items": { "type": "string", "pattern": "^[a-z]+$" }
+      },
+      "jumlah_suku_kata": { "type": "integer", "minimum": 1 },
+      "pola": {
+        "type": "array",
+        "minItems": 1,
+        "items": { "type": "string", "pattern": "^[KV]+$" }
+      },
+      "level": { "type": "integer", "minimum": 1, "maximum": 5 },
+      "kategori": {
+        "type": "string",
+        "enum": [
+          "keluarga", "hewan", "buah", "sayur", "tubuh", "makanan", "benda",
+          "pakaian", "kendaraan", "tempat", "alam", "waktu", "warna", "angka",
+          "kata-kerja", "kata-sifat", "kata-ganti", "kata-tugas", "lainnya"
+        ]
+      },
+      "emoji": { "type": ["string", "null"], "description": "Emoji yang mewakili kata, atau null jika tidak ada." },
+      "gambar": { "type": ["string", "null"], "description": "Nama berkas gambar, atau null jika belum ada." },
+      "audio": { "type": ["string", "null"], "description": "Nama berkas audio, atau null jika belum ada." }
+    }
+  }
+}
